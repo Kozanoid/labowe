@@ -1,0 +1,4 @@
+az login
+az group list -o table
+
+az group create -n koza -l westeurope
